@@ -15,6 +15,7 @@
   
 <h2>O desafio:</h2>
 <p align="justify">Seguindo a metodologia SwiperJS, a criação de um site de uma Barbearia, com layout responsivo</p>
+<p>Disponível apenas para Computadores, Celulares.</p>
 
 --------------------------------------------------------------------------------------------------------------------
 
