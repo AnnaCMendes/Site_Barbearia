@@ -14,8 +14,9 @@
 
   
 <h2>O desafio:</h2>
-<p align="justify">Seguindo a metodologia HTML e CSS, a criação de um site de uma Barbearia, com layout responsivo</p>
+<p align="justify">Seguindo a metodologia HTML e CSS, a criação de um site de uma Barbearia, com layout responsivo.</p>
 <p>Disponível apenas para Computadores, Celulares.</p>
+<a href="https://site-barbearia-theta.vercel.app/index.html">Veja aqui o projeto!</a>
 
 --------------------------------------------------------------------------------------------------------------------
 
